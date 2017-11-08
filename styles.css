@@ -8,18 +8,25 @@ p{
 }
 img{
 	max-width: 100%;
+	height: 30vw;
 }
 .sisalto{
+	background-color: #005ce6;
 	overflow: auto;
+	margim: 1en;
 }
 .vasen{
+	background-color: #999999;
 	float: left;
 	width: 50%;
+	margim: 1en;
 }
 
 .oikea{
+	background-color: #999999;
 	float: left;
 	width: 50%;
+	margim: 1en;
 }
 
 @media only screen and (max-width: 865px){
